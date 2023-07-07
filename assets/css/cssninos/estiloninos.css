@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 jul. 2021, 19:52:44
+    Author     : chilan holguin
+*/
+
+/*borrraaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr entra en conflicto con la base
+*{
+    font-family: Montserrat,sans-serif;
+}
+*{
+    background:#ffcccc;
+}
+*/
+
+    .categorias{
+     /*  border:1px solid gray;
+      border-radius: 10px;*/
+     text-align: center;
+     
+     display: inline-block;
+    width: 200px; 
+     margin-right: 20px;
+    }
+   .categorias img{
+       width: 80%;
+       height: 80%;
+    }
+    .categorias a{
+        font-size:85%;
+       text-decoration: none;
+      color:black;
+     }
+     .categorias a{
+ color: black;
+    }
+        
+    .estiloninos{
+    text-align: center;
+    display: inline-block; 
+    margin-right: 10px;
+    
+    }
+    .estiloninos a{
+      font-size:85%;
+      text-decoration: none;
+      color:black;   
+       
+    }
+    
+  .estiloninos img{
+       width: 95%;
+       height: 95%;
+   }
+   h5{
+    color: white;
+    margin: 0;
+    background: #202020;
+    padding: 0;
+    justify-content: flex-start;
+   
+   }
+     
+   .contenedornuevoestilo,.contenedornuevoestilo2,.contenedorcategprincipal,.contenedorterecomendamos{
+       margin-top: 5%;
+       margin-bottom: 5%;
+   }
+   

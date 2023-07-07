@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/07/2021, 20:39:08
+    Author     : paulc
+*/
+*{
+    font-family: Montserrat,sans-serif;
+}
+
+
+.rebajas {
+ text-align: center;
+ display: inline-block;
+ width: 190px; 
+ margin-right: 5%;
+ margin-bottom:2%;
+
+}
+.rebajas2 {
+ text-align: center;
+ display: inline-block;
+ width: 190px; 
+ margin-right: 5%;
+ margin-bottom:2%;
+
+}
+.rebajas2 img{
+       width: 90%;
+       height: 90%;
+}
+
+.rebajas img{
+       width: 90%;
+       height: 90%;
+}
+ .rebajas2 a{
+       font-size:85%;
+       text-decoration: none;
+      color:black;
+     }
+
+.es img{
+       width: 115%;
+       height: 120%;
+       margin-right: 30px;
+       margin-top: 30%;
+   }
+
+ .rebajas a{
+       font-size:85%;
+       text-decoration: none;
+      color:black;
+     }
+.rebajas p{
+     margin-left: 20%;
+}
+.an {
+    color: black;
+    font-family: fantasy;
+    text-decoration: line-through;
+}
+.de{
+    color: red;
+    font-family: fantasy;
+}
+
+
+
+
+
+    
+    /*borrarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr conflicto con la base
+h2,h6{
+    color: white;
+    margin: 0;
+    background: #202020;
+    padding: 0;
+    justify-content: flex-start;
+}
+*/

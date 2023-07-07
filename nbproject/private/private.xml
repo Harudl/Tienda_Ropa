@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/controllers/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/registro/listaregistroView.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/registro/registrarNuevoView.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/assets/js/validarregistro.js</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/assets/js/validaciones.js</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/deporte/listadeporteView.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/deporte/deporteNuevoView.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/controllers/CarritoController.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/factura/listafacturaView.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/assets/js/validacionproducto.js</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/controllers/RegistroController.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/carrito/carritoc.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/deporte/deporteEditarView.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/homeView.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/login/login.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/views/partials/encabezado.php</file>
+            <file>file:/C:/xampp/htdocs/PROYECTO2/index.php</file>
+        </group>
+    </open-files>
+</project-private>

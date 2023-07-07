@@ -1,0 +1,114 @@
+
+
+header{
+    
+}
+
+#contenedor{
+   width: 80%;
+    margin: 0 auto; /*para centrar un contenedor*/
+    margin-top: 40px;
+    margin-bottom: 35px;
+   
+}
+.formularios{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    background: whitesmoke;
+    width: 80%;
+    margin: 0 auto; 
+    margin-top: 5%;
+     
+}       
+
+#espacio{
+    padding: 40px;
+}
+
+.row{
+  margin-top:15px;
+  
+}
+
+.expansion{
+    width: 100%;
+}
+
+   
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: calc(var(--bs-gutter-x) * 0.5);
+  margin-top: calc(var(--bs-gutter-y) * -1);
+  margin-right: calc(var(--bs-gutter-x) * -.5);
+  margin-left: calc(var(--bs-gutter-x) * -.5);
+}
+.row > * {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * .5);
+  padding-left: calc(var(--bs-gutter-x) * .5);
+  margin-top: var(--bs-gutter-y);
+}
+
+
+  
+@media (min-width: 768px) {
+  .col-md-6 {
+    flex: 0 0 auto;
+    width: 50%;
+    
+    
+  }
+    .col-md-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+
+}
+
+.btn-dark {
+  color: #fff;
+  background-color: #212529;
+  border-color: #212529;
+    font-weight:900;
+    font-size:15px;
+}
+
+.btn-dark:hover {
+  color: #fff;
+  background-color: #1c1f23;
+  border-color: #1a1e21;
+}
+
+#barraform{
+    margin-top:10px;
+    margin-bottom: 20px;
+    border-color:black;
+ }
+
+.boton a{
+  color: #fff;
+  background-color: #212529;
+  border-color: #212529; 
+  text-decoration: none;   
+    padding:3px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 1px;
+}
+
+#formSugerencia{
+    margin-left: 10%;
+}
+
